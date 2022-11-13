@@ -1,0 +1,26 @@
+header h1{
+	background-color: lightblue;
+}
+#part2{
+	background-color: lightblue;
+}
+
+.soc{
+	border: 1px solid whitesmoke;
+	height:30%;
+   /* border-radius: 100px;
+    border-left: 10px ridge white;
+    border-top: 10px ridge black;
+    border-right: 10px ridge blue;
+    border-bottom: 10px ridge black;  */
+}
+#footpic{
+padding-left: 33%;
+}
+h4{
+	padding-left: 780px;
+}
+
+
+	
+
